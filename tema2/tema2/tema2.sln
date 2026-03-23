@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tema2", "tema2\tema2.csproj", "{FBDFA05B-CC34-4391-B592-7F021EB82D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{54F0245D-E018-4CFF-A855-F1693B878F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDFA05B-CC34-4391-B592-7F021EB82D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDFA05B-CC34-4391-B592-7F021EB82D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDFA05B-CC34-4391-B592-7F021EB82D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDFA05B-CC34-4391-B592-7F021EB82D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F0245D-E018-4CFF-A855-F1693B878F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F0245D-E018-4CFF-A855-F1693B878F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F0245D-E018-4CFF-A855-F1693B878F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F0245D-E018-4CFF-A855-F1693B878F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B6AB56-56DD-48AA-9388-3E13E414EED0}
+	EndGlobalSection
+EndGlobal
